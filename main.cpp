@@ -8,7 +8,7 @@
 
 using namespace std;
 
-
+//function signatures
 void menu();
 cSitoAbstrakcyjne* fWyborPojemnika(cSito &, cSitoVector &, cSitoSmartPointer &);
 
